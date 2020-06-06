@@ -1,6 +1,6 @@
 ##  A simple shell
 
-##	Author: Xavier Wu,	842684972@qq.com
+##	Author: Xavier Wu,	Macau  University of Science and Technology
 
 ##	1.Achieved Features I
 
