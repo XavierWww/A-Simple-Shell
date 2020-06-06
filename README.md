@@ -1,6 +1,7 @@
 ##  A simple shell
 
-##	Author: Xavier Wu (Macau  University of Science and Technology)
+##	Author 
+Xavier Wu (Macau  University of Science and Technology)
 
 ##	1.Achieved Features I
 
