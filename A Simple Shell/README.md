@@ -1,6 +1,6 @@
 ##  A simple shell
 
-##	Author: Xavier Wu,	842684972@qq.com
+##	Author: Xavier Wu,	wwwwwux@163.com
 
 ##	1.Achieved Features I
 
