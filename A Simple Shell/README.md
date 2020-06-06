@@ -1,4 +1,4 @@
-##  A simple shell
+##  A Simple Shell
 
 ##	Author: Xavier Wu,	wwwwwux@163.com
 
