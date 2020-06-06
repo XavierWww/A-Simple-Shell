@@ -1,4 +1,4 @@
-##  A simple shell
+##  A Simple Shell
 
 ##	Author 
 Xavier Wu (Macau  University of Science and Technology)
