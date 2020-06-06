@@ -12,7 +12,7 @@ For example: ls, mkdir, who, whoami, cp, mv, rm, rmdir, cal, chmod, pwd,
 			 
 In addition, OS Shell can also parse these parameters, such as: ls -a , ls -al , ls -l ,etc and execute any other external programs, e.g., "./hllo"
 
-Finally, our team also completed 3.5.1 in Bonus Part. When the shell is called, OS Shell will display the host name and current working directory.
+Finally, our team also completed Bonus Part. When the shell is called, OS Shell will display the host name and current working directory.
 
 
 ##	2.Achieved Features II
@@ -27,7 +27,7 @@ Pipe: command 1 | command 2 (command 1 as stdout, sent to command 2 stdin)
 
 multiple commands：You can use multiple commands by splitting different commands with a semicolon(;);for example:mkdir ddd; ls > text.txt; mv text.txt ddd.
 
-In addition, our team also completed 3.5.2 in Bonus Part. Our OS shell current support “AND” Operator (&&) and “OR” Operator (||), even "multi-And" and "multi-Or".
+In addition, our team also completed Bonus Part. Our OS shell current support “AND” Operator (&&) and “OR” Operator (||), even "multi-And" and "multi-Or".
 For example, when you inpout ls && echo "<< Success >>" in the OS shell, The OS shell will output the contents of the specified working directory and << Success >>.
 However, our shell currently only supports one of [ multi(;), and(&&), or(||) ] three cases, mixed executing inner-command, defined-command, pipe and redirection, but does not support multi(;), and(&&), or(||) nesting with each other.
 
