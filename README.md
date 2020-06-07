@@ -1,7 +1,7 @@
 ##  A Simple Shell
 
 ##	Author 
-Xavier Wu (Macau  University of Science and Technology)
+Xavier Wu 
 
 ##	1.Achieved Features I
 
