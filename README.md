@@ -11,7 +11,7 @@ For example: ls, mkdir, who, whoami, cp, mv, rm, rmdir, cal, chmod, pwd,
              go(go command is used to switch the current working directory to dirName (directory parameter).),
              exit, pid(displays the pids of the 5 recent child processes), history, etc. 
 			 
-In addition, OS Shell can also parse these parameters, such as: ls -a , ls -al , ls -l ,etc and execute any other external programs, e.g., "./hllo"
+In addition, OS Shell can also parse these parameters, such as: ls -a , ls -al , ls -l ,etc and execute any other external programs, e.g., "./hello"
 
 Finally, our team also completed Bonus Part. When the shell is called, OS Shell will display the host name and current working directory.
 
