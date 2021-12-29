@@ -1,7 +1,7 @@
 ##  A Simple Shell
 
 ##	Author 
-Xavier Wu 
+Xiang WU
 
 ##	1.Achieved Features I
 
